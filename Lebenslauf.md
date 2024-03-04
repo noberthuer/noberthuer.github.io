@@ -105,7 +105,8 @@ Fotografie, digitale Bildbearbeitung, Pfadfinderei, Ausdauersport
 
 ## Publikation                                                                                                                     
 
-09.2018	OBERTHÜR, Nicolai; GROSS, Jonathan; JANKE, Wolfhard. Two-dimensional Monte Carlo simulations of coarse-grained poly (3-hexylthiophene)(P3HT) adsorbed on striped substrates. The Journal of Chemical Physics, 2018, 149. Jg., Nr. 14, S. 144903.
+Oberthür, N., Gross, J., & Janke, W. (s2018). Two-dimensional Monte Carlo simulations of coarse-grained poly (3-hexylthiophene)(P3HT) adsorbed on striped substrates. *The Journal of Chemical Physics, 149*(14).  
+<https://doi.org/10.1063/1.5046383>
 
 ## Ehrenamtliches Engagement                                                                                                   
 
