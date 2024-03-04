@@ -15,8 +15,6 @@ Wolfgang-Heinze-Str 11
 
 **E-Mail:** <nicolai.oberthuer@gmx.de>
 
-**Telefon:** +49 176 40592533
-
 ## Tätigkeiten                                                                                                                         
 
 ### Increase Your Skills GmbH, Leipzig (seit 12.2023 Teil von MetaCompliance Inc.)
