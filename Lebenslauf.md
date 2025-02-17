@@ -13,17 +13,23 @@ M.Sc. Physik
 Wolfgang-Heinze-Str 11  
 04277 Leipzig
 
-**E-Mail:** <nicolai.oberthuer@gmx.de>
+**E-Mail:** <nicolai.oberthuer@posteo.de>
 
-## Tätigkeiten                                                                                                                         
+**Telefon:** +49 176 40592533
 
-### Increase Your Skills GmbH, Leipzig (seit 12.2023 Teil von MetaCompliance Inc.)
+##  Tätigkeiten 
 
-#### seit 11.2022
+### MetaCompliance GmbH, Leipzig (ehemals „Increase Your Skills GmbH“)
 
-Lead Developer (Technische Führungskraft)  
-Pflege der Codebasis, Architektur und Test-Suite, sowie der Deployment-Pipeline,  
- Ansprechperson bei Fragen zum Projekt
+#### seit 01.2024
+Wartung von Moodle-Elearning-Systemen, Entwicklung der MetaCompliance-Plattform
+
+### Increase Your Skills GmbH, Leipzig
+
+#### 11.2022–12.2023
+
+Lead Developer des Phishing Attack Simulators  
+Pflege der Codebasis, Architektur und Test-Suite, Koordination im Team, Ansprechperson für Außenstehende
 
 #### 02.2021–10.2022
 
@@ -35,7 +41,7 @@ Full-Stack-Entwicklung einer Web-Anwendung zum Simulieren von Phishing-Angriffen
 #### 09.2018–03.2020
 
 Software Entwickler  
-Entwicklung von Modellen sowie Produkstionsplanungs- und Prozessanalyse-Anwendungen
+Entwicklung von Modellen sowie Produktionsplanungs- und Prozessanalyse-Anwendungen
 
 ### Universität Leipzig
 
@@ -72,7 +78,7 @@ Bachelorarbeitsthema: *Metropolis-Simulationen von Gitterheteropolymeren mit kor
 Abitur am 30.05.2011, Note 1,0  
 naturwissenschaftlicher Zug  
 
-## Kenntnisse                                                                                                                          
+## Kenntnisse                 
 
 ### Sprachen
 
@@ -85,13 +91,13 @@ naturwissenschaftlicher Zug
 ### Programmierung
 
 - *Webentwicklung:* PHP, Laravel, JavaScript, HTML, CSS  
-- *.NET-Framework:* C#, WPF, MVVM, XAML, Entity-Framework  
+- *Microsoft .NET:* C#, ASP.NET, Entity-Framework, WPF
 - *weitere Technologien:* SQL, Docker, R, C++, C, Java, Python
 - *Prinzipien:* Test-Driven-Development, Agile, SCRUM
 
 ### EDV-Anwendungen
 
-GIT, LaTeX, Microsoft Office, Adobe Photoshop
+Linux-Betriebssysteme, GIT, LaTeX, Microsoft Office, Adobe Photoshop, Moodle
 
 ### Fahrerlaubnis
 
@@ -99,14 +105,14 @@ Führerschein Klasse B
 
 ### persönliche Interessen
 
-Fotografie, digitale Bildbearbeitung, Pfadfinderei, Ausdauersport
+Fotografie, Pfadfinderei, Ausdauersport, Gerätetauchen
 
-## Publikation                                                                                                                     
+## Publikation 
 
 Oberthür, N., Gross, J., & Janke, W. (s2018). Two-dimensional Monte Carlo simulations of coarse-grained poly (3-hexylthiophene)(P3HT) adsorbed on striped substrates. *The Journal of Chemical Physics, 149*(14).  
 <https://doi.org/10.1063/1.5046383>
 
-## Ehrenamtliches Engagement                                                                                                   
+## Ehrenamtliches Engagement   
 
 ### Bund der Pfadfinderinnen und Pfadfinder e.V.   
 
